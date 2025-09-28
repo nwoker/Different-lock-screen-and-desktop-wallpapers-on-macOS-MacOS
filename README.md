@@ -20,8 +20,7 @@ Exit the terminal and proceed to the next step.
 
 Step 3 - Open the Event Scripts program, go to the second tab (general) and put a confirmation there for Automatically open EventScripts when I log into my computer. 
 Go to the first tab, click the open button and transfer the downloaded files with the changed path to your photos to the folder that opens. 
-Next, we transfer the files from this folder to the EventScripts program and in the column called Event, select password locked in the lookscreen - screen file, and in the second file, respectively. 
-- screen password unlocked. You make the first lock, unlock it, allow this program access to your laptop, and with the next locks, everything works for you.
+Next, we transfer the files from this folder to the EventScripts program and in the column called Event, select password locked in the lookscreen - screen file, and in the second file, respectively. - screen password unlocked. You make the first lock, unlock it, allow this program access to your laptop, and with the next locks, everything works for you.
 
 
 
@@ -47,6 +46,5 @@ brew install brightness
 
 Шаг 3 - Открываем программу Event Scripts, переходим во вторую вкладку (general) и ставим там подтверждение на Automatically open EventScripts when I log into my computer. 
 Переходим в первую вкладку, нажимаем кнопку open и в открывшуюся папку перекидываем скаченные файлы с измененным путем к вашим фотографиям. 
-Дальше перекидываем файлы из этой папки в программу EventScripts и в столбце под названием Event выбираем в файле lookscreen - screen password locked, а во втором файле соответственно 
-- screen password unlocked. Делаете первую блокировку, разблокируете, разрешаете доступ этой программы к ноотбуку и при следующих блокировках у вас все работает. 
+Дальше перекидываем файлы из этой папки в программу EventScripts и в столбце под названием Event выбираем в файле lookscreen - screen password locked, а во втором файле соответственно - screen password unlocked. Делаете первую блокировку, разблокируете, разрешаете доступ этой программы к ноотбуку и при следующих блокировках у вас все работает. 
 
